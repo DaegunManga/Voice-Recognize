@@ -1,12 +1,7 @@
 <div>
 <h1>Python을 이용한 음성인식 AI 제작 프로젝트</h1>
 
-<div style="
-          width: 250px;
-            height:auto;
-        ">
-  ![Manga ai](https://user-images.githubusercontent.com/69490709/231346553-187039cb-2414-4e56-9c91-a5822a37b2b3.png)
-  </div>
+<img src="https://user-images.githubusercontent.com/69490709/231346553-187039cb-2414-4e56-9c91-a5822a37b2b3.png" width="200px height="200"/>
 <h3>2023 MANGA AI Team</h3>
 
 </div>
