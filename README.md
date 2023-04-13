@@ -5,3 +5,5 @@
 <h3>2023 MANGA AI Team</h3>
 
 </div>
+
+Copyright ⓒ 2023 MANGA - AI
